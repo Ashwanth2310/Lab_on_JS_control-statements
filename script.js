@@ -2,11 +2,11 @@
 for (var i = 2; i <= 100; i += 2) {
   console.log(i);
 }
-// Challenge 2: Create a while loop to print all the odd numbers till 100 in the console.
-var num = 1;
+// Challenge 2: Create a while loop to print all the odd numbers till 100 in the consolb.
+var number = 1;
 
 while (num <= 100) {
-  console.log(num);
+  console.log(number);
   num += 2;
 }
 
